@@ -1,0 +1,15 @@
+*{
+    font: normal 16px arial, helvetica, sans-serif;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+main{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 3px 5px rgba(0, 0, 0, 0.445);
+}
